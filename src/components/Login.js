@@ -12,7 +12,7 @@ const Login = () => {
           <div className="flex justify-center pb-4">
             <img className=" text-center w-20 h-20 " src={hacker} alt="" />
           </div>
-          <h2 className="text-4xl dark:text-white font-bold text-center">
+          <h2 className="text-4xl text-white sm:text-white  font-bold text-center">
             SIGN IN
           </h2>
 
